@@ -4,3 +4,4 @@
 npm create vue@lates
 ```
 经过一系列选择, 最后生成一个脚手架. 然后到目录里安装, 执行npm i; npm run format; npm run dev;
+要升级到 node 18, 否则启动会报错.

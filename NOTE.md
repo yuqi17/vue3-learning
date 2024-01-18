@@ -127,3 +127,6 @@ export function useMouse() {
 3. 一个是Teleport 类似于react的 Portal
 4. Suspense 跟 react 类似, 主要用于渲染费时间的组件
 
+## SSR & SSG(静态站点生成SSG)
+vue nuxt VS react next
+
